@@ -5,6 +5,7 @@ function setup() {
 	h = windowHeight
 	createCanvas(w, h)
 	background(0)
+	console.log("nosir")
 }
 
 function draw() {
